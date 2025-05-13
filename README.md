@@ -1,7 +1,7 @@
 # :seedling: React Native Template
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Current version of React Native.][react-native-version-badge]][react-native-version]
@@ -36,6 +36,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://jfmengels.net/"><img src="https://avatars.githubusercontent.com/u/3869412?v=4?s=100" width="100px;" alt="Jeroen Engels"/><br /><sub><b>Jeroen Engels</b></sub></a><br /><a href="https://github.com/DeadGroup/react-native-template/commits?author=jfmengels" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ngxhuyhoang"><img src="https://avatars.githubusercontent.com/u/174792253?v=4?s=100" width="100px;" alt="Nguyễn Huy Hoàng"/><br /><sub><b>Nguyễn Huy Hoàng</b></sub></a><br /><a href="https://github.com/DeadGroup/react-native-template/commits?author=ngxhuyhoang" title="Documentation">📖</a></td>
     </tr>
   </tbody>
   <tfoot>
