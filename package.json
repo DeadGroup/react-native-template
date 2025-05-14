@@ -1,5 +1,5 @@
 {
-  "name": "react-native-template",
+  "name": "@dead-group/react-native-template",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:DeadGroup/react-native-template.git",
