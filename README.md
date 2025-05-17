@@ -20,6 +20,12 @@
 npx @react-native-community/cli@latest init <ProjectName> --template https://github.com/DeadGroup/react-native-template.git
 ```
 
+## Setup Lefthook
+
+```sh
+npx lefthook install
+```
+
 <!-- badge -->
 
 [react-native-version]: https://github.com/deadgroup/react-native-template/blob/main/template/package.json
@@ -47,3 +53,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+```
+
+```
