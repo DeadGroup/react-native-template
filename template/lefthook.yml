@@ -7,3 +7,7 @@ pre-commit:
   commands:
     source-linter:
       run: yarn lint-staged
+commit-msg:
+  scripts:
+    lint-commit-msg:
+      run: npx commitlint --edit {1}
