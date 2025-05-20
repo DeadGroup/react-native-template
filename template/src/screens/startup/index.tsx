@@ -12,7 +12,7 @@ const Startup = () => {
   const { reset } = useNavigation<Props>();
 
   const delay = () => {
-    return new Promise(resolver => setTimeout(resolver, 5000));
+    return new Promise(resolver => setTimeout(resolver, 1500));
   };
 
   useEffect(() => {
@@ -20,7 +20,7 @@ const Startup = () => {
       await delay();
       reset({
         index: 0,
-        routes: [{ name: ScreenNames.Home }],
+        routes: [{ name: ScreenNames.Welcome }],
       });
     };
 
