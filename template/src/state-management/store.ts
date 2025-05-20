@@ -3,7 +3,10 @@ import { MMKV } from 'react-native-mmkv';
 import { TypedUseSelectorHook, useDispatch, useSelector } from 'react-redux';
 import { persistReducer, persistStore, Storage } from 'redux-persist';
 
-const storage = new MMKV();
+const storage = new MMKV({
+  id: 'mmkv.default',
+  encryptionKey: 'DeadGroup',
+});
 
 const reduxStorage: Storage = {
   setItem: (key, value) => {
